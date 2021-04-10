@@ -8,3 +8,9 @@ This was my first non-trivial Java program. I wrote it on the side while taking 
 1. It was fun
 2. It would help solidify the programming concepts I was learning
 3. I could show it off one day
+
+The gameplay is simple:  
+
+The game starts with a randomly-generated 4-digit code.  
+You have 10 tries to guess the code.  
+After each guess, you receive feedback symbols representing correct digits and correct positions
