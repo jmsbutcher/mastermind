@@ -13,4 +13,5 @@ The gameplay is simple:
 
 The game starts with a randomly-generated 4-digit code.  
 You have 10 tries to guess the code.  
-After each guess, you receive feedback symbols representing correct digits and correct positions
+After each guess, you receive feedback symbols representing correct digits and correct positions  
+Use these symbols as clues to help guess the code 
